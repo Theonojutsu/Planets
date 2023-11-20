@@ -323,11 +323,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1230258491}
-  planetPrefab: {fileID: 0}
+  planetPrefab: {fileID: 7692078945592521252, guid: c7248df3b73df904f80241e58df6b1ab,
+    type: 3}
   generationDistance: 3
   rangeSpawn: 10
   numberOfPlanets: 5
-  maxDistanceFromPlayer: 20
 --- !u!1 &1230258487
 GameObject:
   m_ObjectHideFlags: 0
